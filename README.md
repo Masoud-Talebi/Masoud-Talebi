@@ -38,7 +38,7 @@
  <a href="https://masood-tmp.ir" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="masood" />
  </a>
- <a href="https://linkedin.com/in/masood-talebi" target="_blank">
+ <a href="https://www.linkedin.com/in/masoud-talebi1384" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="masood"/>
  </a>
  <a href="https://twitter.com/" target="_blank">
